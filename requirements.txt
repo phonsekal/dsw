@@ -1,5 +1,5 @@
 streamlit
 pandas
-docxtpl import DocxTemplate
-num2words import num2words
-datetime import datetime
+docxtpl
+num2words
+datetime
