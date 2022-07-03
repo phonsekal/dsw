@@ -61,7 +61,7 @@ if option == 'Transpor Lokal':
         
         }
         #st.write(context)
-        output_name = f'download/{context["nama"]}.docx'
+        output_name = f'{context["nama"]}.docx'
         doc.render(context)   
         doc.save(output_name)
         #convert(output_name, "hasil.pdf")
