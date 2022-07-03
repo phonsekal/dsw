@@ -2,8 +2,8 @@ import streamlit as st
 import pandas as pd
 from docxtpl import DocxTemplate
 from num2words import num2words
-import pdfkit
-from jinja2 import Environment, PackageLoader, select_autoescape, FileSystemLoader
+#import pdfkit
+#from jinja2 import Environment, PackageLoader, select_autoescape, FileSystemLoader
 from docx2pdf import convert
 from datetime import datetime
 
