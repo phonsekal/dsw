@@ -1,5 +1,10 @@
 streamlit
-pandas
-docxtpl
-num2words
+docxcompose==1.3.4
+docxtpl==0.16.0
+num2words==0.5.10
+numpy==1.23.0
+openpyxl==3.0.10
+pandas==1.4.3
+pandocfilters==1.5.0
+python-docx==0.8.11
 datetime
